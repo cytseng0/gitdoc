@@ -44,9 +44,6 @@ Option ->General ->Design units
 1005 代表公制  1.0  x 0.5  mm
 
 
-qq
-快捷鍵
-
 
 
 
